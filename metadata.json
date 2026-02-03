@@ -1,0 +1,7 @@
+{
+  "name": "VeloGuard",
+  "description": "A comprehensive bicycle registration, theft reporting, and marketplace platform powered by AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
